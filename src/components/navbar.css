@@ -1,0 +1,35 @@
+/* navbar.css */
+
+nav {
+  background-color: #333;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: #555;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin: 0 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button.selected {
+  background-color: #2f3aa5;
+}
+
+/* Responsive CSS */
+@media screen and (max-width: 600px) {
+  nav {
+    flex-direction: column;
+    padding: 10px 0;
+  }
+
+  button {
+    margin: 5px 0;
+  }
+}
