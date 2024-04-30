@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rajaulansari/Drawing-Canvas/static/css/main.698ccf04.css",
-    "main.js": "/rajaulansari/Drawing-Canvas/static/js/main.184a5759.js",
-    "static/js/453.cdc540b0.chunk.js": "/rajaulansari/Drawing-Canvas/static/js/453.cdc540b0.chunk.js",
-    "index.html": "/rajaulansari/Drawing-Canvas/index.html",
-    "main.698ccf04.css.map": "/rajaulansari/Drawing-Canvas/static/css/main.698ccf04.css.map",
-    "main.184a5759.js.map": "/rajaulansari/Drawing-Canvas/static/js/main.184a5759.js.map",
-    "453.cdc540b0.chunk.js.map": "/rajaulansari/Drawing-Canvas/static/js/453.cdc540b0.chunk.js.map"
+    "main.css": "/Drawing-Canvas/static/css/main.698ccf04.css",
+    "main.js": "/Drawing-Canvas/static/js/main.9c3ca805.js",
+    "static/js/453.cdc540b0.chunk.js": "/Drawing-Canvas/static/js/453.cdc540b0.chunk.js",
+    "index.html": "/Drawing-Canvas/index.html",
+    "main.698ccf04.css.map": "/Drawing-Canvas/static/css/main.698ccf04.css.map",
+    "main.9c3ca805.js.map": "/Drawing-Canvas/static/js/main.9c3ca805.js.map",
+    "453.cdc540b0.chunk.js.map": "/Drawing-Canvas/static/js/453.cdc540b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.698ccf04.css",
-    "static/js/main.184a5759.js"
+    "static/js/main.9c3ca805.js"
   ]
 }
